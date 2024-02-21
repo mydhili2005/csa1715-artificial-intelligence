@@ -1,4 +1,4 @@
-print("maha")
+
 import itertools
 
 def calculate_distance(points, order):
